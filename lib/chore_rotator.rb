@@ -103,7 +103,7 @@ class ChoreRotator
   end
 
   def copy_template_board_url
-    new_board_name = "TEST Chores for the Week of #{Time.now.strftime("%m-%d-%y")}"
+    new_board_name = "Chores for the Week of #{Time.now.strftime("%m-%d-%y")}"
     return URI.encode "#{base_url}/boards?key=#{api_key}&token=#{auth_token}&name=#{new_board_name}&idBoardSource=#{template_id}"
   end
 
