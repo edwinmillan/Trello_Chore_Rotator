@@ -1,8 +1,10 @@
 Trello Chore Rotator
 ====================
 
-This project was a way for me to get familiar with trello's API and have fun 
-with it
+This project was a way for me to get familiar with trello's API and have fun
+with it.
+
+I also got the opportunity to organize my life a bit better.
 
 It is meant to be run on a Sunday using the following List format in Trello
 
